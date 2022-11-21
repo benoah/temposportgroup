@@ -2,7 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-.navbarLogo{
-    width: 180px;
-  
+
+.navBrandLogo{
+    width: 200px;
+}
+
+.heroimage{
+    height: 50vh;
 }
